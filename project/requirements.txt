@@ -1,0 +1,15 @@
+# Downloaded
+pyttsx3
+SpeechRecognition
+wikipedia
+webbrowser
+pyjokes
+
+# Already availabe in python
+os
+datetime
+re 
+requests
+smtplib
+csv
+random
